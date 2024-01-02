@@ -2,8 +2,7 @@ Question Class:
 
 Create a Question class with attributes such as questionText, options, and correctAnswer.
 Include a method to check if a given answer is correct.
-java
-Copy code
+
 public class Question {
     private String questionText;
     private String[] options;
@@ -19,8 +18,7 @@ Quiz Class:
 
 Develop a Quiz class to manage a collection of questions.
 Include methods to add questions, retrieve questions, and calculate the total score.
-java
-Copy code
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -47,8 +45,7 @@ User Interaction:
 
 Implement a console-based user interface using the Scanner class.
 Display questions, capture user responses, and provide feedback.
-java
-Copy code
+
 import java.util.Scanner;
 
 public class QuizApp {
@@ -65,13 +62,4 @@ Submission:
 Create a GitHub repository for your project.
 Include a README file explaining the project structure, how to run it, and any additional information.
 Provide a link to your repository in the submission form.
-This is a basic structure to get you started. As you work on the project, you can enhance it with features like randomizing questions, adding a timer, or improving the user interface. Good luck with your Java Online Quiz Application!
-
-
-
-
-
-
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking important
+This is a basic structure to get you started. As you work on the project, you can enhance it with features like randomizing questions, adding a timer, or improving the user interface. 
